@@ -1,3 +1,3 @@
-x = input("Give your name:")
+x = input("Give your namefdafa:")
 y = input("Give your surname")
 print("Hello world!", x + y)
