@@ -8,3 +8,6 @@ Recommended Movies
   - Die Hard, 1988.
   - 12 Monkeys, 1995.
   - Snatch, 2000.
+  -Fight Club, 1999.
+  -In Time, 2011.
+  -La La Land, 2016.
