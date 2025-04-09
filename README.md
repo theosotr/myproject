@@ -9,6 +9,9 @@ Recommended Movies
   - Die Hard, 1988.
   - 12 Monkeys, 1995.
   - Snatch, 2000.
+  - The Godfather, 1972
+  - Fight Club, 1999.
+  - La La Land, 2016.
 * Tarantino:
   - Pulp Fiction, 1994.
   - Django Unchained, 2012.
