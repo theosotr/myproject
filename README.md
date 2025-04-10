@@ -12,6 +12,7 @@ Recommended Movies
   - The Godfather, 1972
   - Fight Club, 1999.
   - La La Land, 2016.
+  - American Psycho, 2000. 
 * Tarantino:
   - Pulp Fiction, 1994.
   - Django Unchained, 2012.
@@ -23,3 +24,7 @@ Recommended Movies
 * Modern Action:
   - Baby Driver, 2017.
   - Nobody, 2021.
+* Must Watch:
+  - The Machinist, 2004.
+  - Nightcrawler, 2014.
+  - Drive, 2011.
