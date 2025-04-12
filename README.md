@@ -13,10 +13,13 @@ Recommended Movies
   - Fight Club, 1999.
   - La La Land, 2016.
   - American Psycho, 2000. 
+  - Lion King, 1994.
+  - Pretty Woman, 1990.
 * Tarantino:
   - Pulp Fiction, 1994.
   - Django Unchained, 2012.
   - Once Upon A Time In Hollywood, 2019.
+  - Inglourious Basterds, 2009.
 * The Dark Knight Trilogy:
   - Batman Begins, 2005.
   - The Dark Knight, 2008.
