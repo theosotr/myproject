@@ -31,3 +31,15 @@ Recommended Movies
   - The Machinist, 2004.
   - Nightcrawler, 2014.
   - Drive, 2011.
+* Movies
+  - 12 Years A Slave, 2013.
+  - Hacksaw Ridge, 2016.
+  - Apocalypto, 2006.
+  - The Green Mile, 1999.
+  - Breaveheart, 1995.
+  - Erin Brockovich, 2000.
+  - The Last Castle, 2001.
+  - The Grey, 2011.
+  - The Equalizer, 2014.
+  - Escape Plan, 2013.
+  - Stand By Me, 1989
