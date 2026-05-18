@@ -1,3 +1,9 @@
+Recommended Weekend Trips
+=========================
+
+* Steni Evias
+* Pylos, Messinia
+
 Recommended Movies
 ==================
 
