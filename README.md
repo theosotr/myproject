@@ -3,6 +3,9 @@ Recommended Weekend Trips
 
 * Steni Evias
 * Pylos, Messinia
+* Amfilochia
+* Aegina
+* Monemvasia
 
 Recommended Movies
 ==================
