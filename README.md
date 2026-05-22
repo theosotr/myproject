@@ -7,6 +7,7 @@ Recommended Weekend Trips
 * Aegina
 * Monemvasia
 * Neochori, Mesologgi
+* Agistri
 
 Recommended Movies
 ==================
