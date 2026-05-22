@@ -6,6 +6,7 @@ Recommended Weekend Trips
 * Amfilochia
 * Aegina
 * Monemvasia
+* Agistri
 
 Recommended Movies
 ==================
