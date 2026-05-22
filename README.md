@@ -6,6 +6,7 @@ Recommended Weekend Trips
 * Amfilochia
 * Aegina
 * Monemvasia
+* Neochori, Mesologgi
 * Agistri
 
 Recommended Movies
