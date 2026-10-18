@@ -2,7 +2,7 @@ Recommended Athens Restaurants
 ==============================
 * Soil, Pagkrati
 * Chez Michel, Kolonaki
-
+* Evripides, Nea Filothei
 Recommended Weekend Trips
 =========================
 
