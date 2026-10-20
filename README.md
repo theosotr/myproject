@@ -1,5 +1,6 @@
 Recommended Athens Restaurants
 ==============================
+* Loukidelis, Nea Ionia
 * Soil, Pagkrati
 * Chez Michel, Kolonaki
 * Evripides, Nea Filothei
