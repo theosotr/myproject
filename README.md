@@ -3,6 +3,8 @@ Recommended Athens Restaurants
 * Soil, Pagkrati
 * Chez Michel, Kolonaki
 * Evripides, Nea Filothei
+* Granello pizza italiana, syntagma
+* Hafu, panepistimio
 Recommended Weekend Trips
 =========================
 
