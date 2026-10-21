@@ -6,6 +6,7 @@ Recommended Athens Restaurants
 * Evripides, Nea Filothei
 * Granello pizza italiana, syntagma
 * Hafu, panepistimio
+
 Recommended Weekend Trips
 =========================
 
