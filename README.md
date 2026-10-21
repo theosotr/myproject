@@ -9,6 +9,7 @@ Recommended Athens Restaurants
 * juicy grill, cholargos
 * steve's, kerameikos
 * ekiben, syntagma
+* Bento the street asian meal, aigaleo
 
 Recommended Weekend Trips
 =========================
