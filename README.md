@@ -10,6 +10,7 @@ Recommended Athens Restaurants
 * steve's, kerameikos
 * ekiben, syntagma
 * Bento the street asian meal, aigaleo
+* Casa del Toro, Xalandri
 
 Recommended Weekend Trips
 =========================
