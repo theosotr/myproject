@@ -12,7 +12,8 @@ Recommended Athens Restaurants
 * Bento the street asian meal, aigaleo
 * Casa del Toro, Xalandri
 * Mylolithos, Ampelokipoi
-* Nakama sushi bar, Kolonaki 
+* Nakama sushi bar, Kolonaki
+* Apperio,Cholargos
 
 Recommended Weekend Trips
 =========================
